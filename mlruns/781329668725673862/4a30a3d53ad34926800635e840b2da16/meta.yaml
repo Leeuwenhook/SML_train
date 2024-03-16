@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/4a30a3d53ad34926800635e840b2da16/artifacts
+end_time: 1710604979335
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: 4a30a3d53ad34926800635e840b2da16
+run_name: AdaBoost Regressor
+run_uuid: 4a30a3d53ad34926800635e840b2da16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710604979166
+status: 3
+tags: []
+user_id: SunWeiyi

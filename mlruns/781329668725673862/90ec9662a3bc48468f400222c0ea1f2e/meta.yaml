@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/90ec9662a3bc48468f400222c0ea1f2e/artifacts
+end_time: 1710604815391
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: 90ec9662a3bc48468f400222c0ea1f2e
+run_name: Lasso Regression
+run_uuid: 90ec9662a3bc48468f400222c0ea1f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710604815047
+status: 3
+tags: []
+user_id: SunWeiyi

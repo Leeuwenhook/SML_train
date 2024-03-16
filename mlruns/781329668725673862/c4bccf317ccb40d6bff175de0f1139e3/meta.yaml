@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/c4bccf317ccb40d6bff175de0f1139e3/artifacts
+end_time: 1710604823099
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: c4bccf317ccb40d6bff175de0f1139e3
+run_name: Dummy Regressor
+run_uuid: c4bccf317ccb40d6bff175de0f1139e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710604822864
+status: 3
+tags: []
+user_id: SunWeiyi

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/0906f49697ec489cbd7488850a48f62d/artifacts
+end_time: 1710605054497
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: 0906f49697ec489cbd7488850a48f62d
+run_name: Ridge Regression
+run_uuid: 0906f49697ec489cbd7488850a48f62d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710605054359
+status: 3
+tags: []
+user_id: SunWeiyi

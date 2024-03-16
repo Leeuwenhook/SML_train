@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/364995b9366d43609a520de936e51e8d/artifacts
+end_time: 1710605022159
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: 364995b9366d43609a520de936e51e8d
+run_name: Session Initialized 961c
+run_uuid: 364995b9366d43609a520de936e51e8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710604930962
+status: 3
+tags: []
+user_id: SunWeiyi

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/ee721291f7274621a4c052758afd305c/artifacts
+end_time: 1710603784205
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: ee721291f7274621a4c052758afd305c
+run_name: Decision Tree Regressor
+run_uuid: ee721291f7274621a4c052758afd305c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710603784003
+status: 3
+tags: []
+user_id: SunWeiyi
