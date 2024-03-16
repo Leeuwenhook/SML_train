@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/436b9072ae9d46fa84c99af6bd3d8272/artifacts
+end_time: 1710608126961
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: 436b9072ae9d46fa84c99af6bd3d8272
+run_name: Elastic Net
+run_uuid: 436b9072ae9d46fa84c99af6bd3d8272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710608126841
+status: 3
+tags: []
+user_id: SunWeiyi

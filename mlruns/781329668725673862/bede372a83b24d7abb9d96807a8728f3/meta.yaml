@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/bede372a83b24d7abb9d96807a8728f3/artifacts
+end_time: 1710607749686
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: bede372a83b24d7abb9d96807a8728f3
+run_name: Light Gradient Boosting Machine
+run_uuid: bede372a83b24d7abb9d96807a8728f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710607749549
+status: 3
+tags: []
+user_id: SunWeiyi

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/dc5479dc00364b03b3ce54a5c5c50c3a/artifacts
+end_time: 1710607748535
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: dc5479dc00364b03b3ce54a5c5c50c3a
+run_name: Gradient Boosting Regressor
+run_uuid: dc5479dc00364b03b3ce54a5c5c50c3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710607748402
+status: 3
+tags: []
+user_id: SunWeiyi

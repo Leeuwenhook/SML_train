@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/f84fab5b07424aba9d99aa9bb5116bc3/artifacts
+end_time: 1710607237200
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: f84fab5b07424aba9d99aa9bb5116bc3
+run_name: Least Angle Regression
+run_uuid: f84fab5b07424aba9d99aa9bb5116bc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710607237069
+status: 3
+tags: []
+user_id: SunWeiyi

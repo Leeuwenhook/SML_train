@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/66f2e717473b42d088448a19903ce225/artifacts
+end_time: 1710607235721
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: 66f2e717473b42d088448a19903ce225
+run_name: Extra Trees Regressor
+run_uuid: 66f2e717473b42d088448a19903ce225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710607235557
+status: 3
+tags: []
+user_id: SunWeiyi

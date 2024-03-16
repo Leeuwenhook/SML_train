@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/aea85762edc749ea9e8b0a6ca0e03a63/artifacts
+end_time: 1710607664718
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: aea85762edc749ea9e8b0a6ca0e03a63
+run_name: Linear Regression
+run_uuid: aea85762edc749ea9e8b0a6ca0e03a63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710607664601
+status: 3
+tags: []
+user_id: SunWeiyi

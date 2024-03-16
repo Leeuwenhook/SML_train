@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/b8a898e383984fa5b85b66515087ab63/artifacts
+end_time: 1710609133884
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: b8a898e383984fa5b85b66515087ab63
+run_name: Bayesian Ridge
+run_uuid: b8a898e383984fa5b85b66515087ab63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710609133602
+status: 3
+tags: []
+user_id: SunWeiyi

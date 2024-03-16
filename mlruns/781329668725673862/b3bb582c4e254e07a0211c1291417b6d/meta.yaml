@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/b3bb582c4e254e07a0211c1291417b6d/artifacts
+end_time: 1710608129223
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: b3bb582c4e254e07a0211c1291417b6d
+run_name: Random Forest Regressor
+run_uuid: b3bb582c4e254e07a0211c1291417b6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710608129080
+status: 3
+tags: []
+user_id: SunWeiyi

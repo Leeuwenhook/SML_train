@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/f4e78ee377014a2db67df23b85c1e24f/artifacts
+end_time: 1710607750110
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: f4e78ee377014a2db67df23b85c1e24f
+run_name: Extreme Gradient Boosting
+run_uuid: f4e78ee377014a2db67df23b85c1e24f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710607749924
+status: 3
+tags: []
+user_id: SunWeiyi
