@@ -1,5 +1,5 @@
 artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/40863d3a965a495ba3688567fb26f839/artifacts
-end_time: null
+end_time: 1711106727824
 entry_point_name: ''
 experiment_id: '781329668725673862'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1711100233091
-status: 1
+status: 3
 tags: []
 user_id: SunWeiyi
