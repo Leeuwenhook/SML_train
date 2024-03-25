@@ -32867,3 +32867,1474 @@ and update your code. This will become an error in seaborn v0.13.0.
 2024-03-22 11:47:50,346:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
   self._figure.tight_layout(*args, **kwargs)
 
+2024-03-25 15:48:47,190:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-25 15:48:47,198:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-25 15:48:47,198:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-25 15:48:47,198:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-25 15:48:48,479:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-25 15:48:48,482:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-25 15:48:48,487:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-25 15:48:48,526:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-25 15:48:48,527:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-25 15:48:48,532:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-25 15:48:48,556:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-25 15:48:48,557:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-25 15:48:48,561:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-25 15:48:48,584:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-25 15:48:48,585:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-25 15:48:48,590:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-25 15:48:48,614:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-25 15:48:48,615:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-25 15:48:48,618:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-25 15:48:48,640:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-25 15:48:48,641:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-25 15:48:48,645:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-25 15:48:48,662:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-25 15:48:48,663:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-25 15:48:48,666:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-25 15:48:49,236:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-25 15:48:49,665:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-25 15:49:03,987:INFO:PyCaret RegressionExperiment
+2024-03-25 15:49:03,987:INFO:Logging name: reg-default-name
+2024-03-25 15:49:03,988:INFO:ML Usecase: MLUsecase.REGRESSION
+2024-03-25 15:49:03,988:INFO:version 3.3.0
+2024-03-25 15:49:03,988:INFO:Initializing setup()
+2024-03-25 15:49:03,988:INFO:self.USI: 0952
+2024-03-25 15:49:03,988:INFO:self._variable_keys: {'pipeline', 'gpu_n_jobs_param', 'exp_name_log', 'y_test', 'n_jobs_param', 'fold_generator', 'memory', 'X_train', 'exp_id', '_ml_usecase', 'seed', 'fold_groups_param', 'data', 'html_param', '_available_plots', 'y', 'transform_target_param', 'fold_shuffle_param', 'y_train', 'USI', 'gpu_param', 'X_test', 'log_plots_param', 'target_param', 'idx', 'X', 'logging_param'}
+2024-03-25 15:49:03,988:INFO:Checking environment
+2024-03-25 15:49:03,988:INFO:python_version: 3.11.5
+2024-03-25 15:49:03,988:INFO:python_build: ('main', 'Sep 11 2023 13:26:23')
+2024-03-25 15:49:03,988:INFO:machine: AMD64
+2024-03-25 15:49:03,988:INFO:platform: Windows-10-10.0.22631-SP0
+2024-03-25 15:49:03,988:INFO:Memory: svmem(total=34129678336, available=16466567168, percent=51.8, used=17663111168, free=16466567168)
+2024-03-25 15:49:03,988:INFO:Physical Core: 6
+2024-03-25 15:49:03,988:INFO:Logical Core: 12
+2024-03-25 15:49:03,988:INFO:Checking libraries
+2024-03-25 15:49:03,988:INFO:System:
+2024-03-25 15:49:03,988:INFO:    python: 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+2024-03-25 15:49:03,989:INFO:executable: d:\Code\Anaconda\python.exe
+2024-03-25 15:49:03,989:INFO:   machine: Windows-10-10.0.22631-SP0
+2024-03-25 15:49:03,989:INFO:PyCaret required dependencies:
+2024-03-25 15:49:05,542:INFO:                 pip: 24.0
+2024-03-25 15:49:05,542:INFO:          setuptools: 68.0.0
+2024-03-25 15:49:05,542:INFO:             pycaret: 3.3.0
+2024-03-25 15:49:05,542:INFO:             IPython: 8.15.0
+2024-03-25 15:49:05,542:INFO:          ipywidgets: 8.0.4
+2024-03-25 15:49:05,542:INFO:                tqdm: 4.65.0
+2024-03-25 15:49:05,542:INFO:               numpy: 1.24.3
+2024-03-25 15:49:05,542:INFO:              pandas: 2.0.3
+2024-03-25 15:49:05,542:INFO:              jinja2: 3.1.2
+2024-03-25 15:49:05,542:INFO:               scipy: 1.11.1
+2024-03-25 15:49:05,542:INFO:              joblib: 1.2.0
+2024-03-25 15:49:05,543:INFO:             sklearn: 1.3.0
+2024-03-25 15:49:05,543:INFO:                pyod: 1.1.3
+2024-03-25 15:49:05,543:INFO:            imblearn: 0.10.1
+2024-03-25 15:49:05,543:INFO:   category_encoders: 2.6.3
+2024-03-25 15:49:05,543:INFO:            lightgbm: 4.3.0
+2024-03-25 15:49:05,543:INFO:               numba: 0.57.1
+2024-03-25 15:49:05,543:INFO:            requests: 2.31.0
+2024-03-25 15:49:05,543:INFO:          matplotlib: 3.7.2
+2024-03-25 15:49:05,543:INFO:          scikitplot: 0.3.7
+2024-03-25 15:49:05,543:INFO:         yellowbrick: 1.5
+2024-03-25 15:49:05,543:INFO:              plotly: 5.9.0
+2024-03-25 15:49:05,543:INFO:    plotly-resampler: Not installed
+2024-03-25 15:49:05,543:INFO:             kaleido: 0.2.1
+2024-03-25 15:49:05,543:INFO:           schemdraw: 0.15
+2024-03-25 15:49:05,543:INFO:         statsmodels: 0.14.0
+2024-03-25 15:49:05,543:INFO:              sktime: 0.27.0
+2024-03-25 15:49:05,543:INFO:               tbats: 1.1.3
+2024-03-25 15:49:05,543:INFO:            pmdarima: 2.0.4
+2024-03-25 15:49:05,543:INFO:              psutil: 5.9.0
+2024-03-25 15:49:05,543:INFO:          markupsafe: 2.1.1
+2024-03-25 15:49:05,544:INFO:             pickle5: Not installed
+2024-03-25 15:49:05,544:INFO:         cloudpickle: 2.2.1
+2024-03-25 15:49:05,544:INFO:         deprecation: 2.1.0
+2024-03-25 15:49:05,544:INFO:              xxhash: 2.0.2
+2024-03-25 15:49:05,544:INFO:           wurlitzer: Not installed
+2024-03-25 15:49:05,544:INFO:PyCaret optional dependencies:
+2024-03-25 15:49:05,559:INFO:                shap: Not installed
+2024-03-25 15:49:05,559:INFO:           interpret: Not installed
+2024-03-25 15:49:05,559:INFO:                umap: Not installed
+2024-03-25 15:49:05,559:INFO:     ydata_profiling: Not installed
+2024-03-25 15:49:05,559:INFO:  explainerdashboard: Not installed
+2024-03-25 15:49:05,559:INFO:             autoviz: Not installed
+2024-03-25 15:49:05,559:INFO:           fairlearn: Not installed
+2024-03-25 15:49:05,559:INFO:          deepchecks: Not installed
+2024-03-25 15:49:05,559:INFO:             xgboost: 2.0.3
+2024-03-25 15:49:05,559:INFO:            catboost: Not installed
+2024-03-25 15:49:05,560:INFO:              kmodes: Not installed
+2024-03-25 15:49:05,560:INFO:             mlxtend: Not installed
+2024-03-25 15:49:05,560:INFO:       statsforecast: Not installed
+2024-03-25 15:49:05,560:INFO:        tune_sklearn: Not installed
+2024-03-25 15:49:05,560:INFO:                 ray: Not installed
+2024-03-25 15:49:05,560:INFO:            hyperopt: Not installed
+2024-03-25 15:49:05,560:INFO:              optuna: Not installed
+2024-03-25 15:49:05,560:INFO:               skopt: Not installed
+2024-03-25 15:49:05,560:INFO:              mlflow: 2.11.1
+2024-03-25 15:49:05,560:INFO:              gradio: Not installed
+2024-03-25 15:49:05,560:INFO:             fastapi: Not installed
+2024-03-25 15:49:05,560:INFO:             uvicorn: Not installed
+2024-03-25 15:49:05,560:INFO:              m2cgen: Not installed
+2024-03-25 15:49:05,560:INFO:           evidently: Not installed
+2024-03-25 15:49:05,560:INFO:               fugue: Not installed
+2024-03-25 15:49:05,560:INFO:           streamlit: Not installed
+2024-03-25 15:49:05,560:INFO:             prophet: Not installed
+2024-03-25 15:49:05,560:INFO:None
+2024-03-25 15:49:05,560:INFO:Set up data.
+2024-03-25 15:49:05,598:INFO:Set up folding strategy.
+2024-03-25 15:49:05,598:INFO:Set up train/test split.
+2024-03-25 15:49:05,624:INFO:Set up index.
+2024-03-25 15:49:05,624:INFO:Assigning column types.
+2024-03-25 15:49:05,639:INFO:Engine successfully changes for model 'lr' to 'sklearn'.
+2024-03-25 15:49:05,640:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2024-03-25 15:49:05,645:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2024-03-25 15:49:05,649:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2024-03-25 15:49:05,720:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-03-25 15:49:05,770:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-03-25 15:49:05,771:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:05,773:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:05,773:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2024-03-25 15:49:05,778:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2024-03-25 15:49:05,783:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2024-03-25 15:49:05,852:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-03-25 15:49:05,897:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-03-25 15:49:05,897:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:05,900:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:05,900:INFO:Engine successfully changes for model 'lasso' to 'sklearn'.
+2024-03-25 15:49:05,905:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2024-03-25 15:49:05,909:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2024-03-25 15:49:05,979:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,023:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,023:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:06,026:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:06,030:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,036:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,109:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,157:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,158:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:06,161:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:06,162:INFO:Engine successfully changes for model 'ridge' to 'sklearn'.
+2024-03-25 15:49:06,171:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,243:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,289:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,290:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:06,293:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:06,302:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,372:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,418:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,418:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:06,421:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:06,421:INFO:Engine successfully changes for model 'en' to 'sklearn'.
+2024-03-25 15:49:06,510:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,560:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,561:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:06,564:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:06,650:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,700:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,701:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:06,703:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:06,703:INFO:Engine successfully changes for model 'knn' to 'sklearn'.
+2024-03-25 15:49:06,784:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,830:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:06,834:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:06,919:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-03-25 15:49:06,965:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:06,967:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:06,968:INFO:Engine successfully changes for model 'svm' to 'sklearn'.
+2024-03-25 15:49:07,101:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:07,104:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:07,263:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:07,266:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:07,268:INFO:Preparing preprocessing pipeline...
+2024-03-25 15:49:07,268:INFO:Set up simple imputation.
+2024-03-25 15:49:07,281:INFO:Set up encoding of categorical features.
+2024-03-25 15:49:07,283:INFO:Set up column name cleaning.
+2024-03-25 15:49:07,998:INFO:Finished creating preprocessing pipeline.
+2024-03-25 15:49:08,012:INFO:Pipeline: Pipeline(memory=FastMemory(location=C:\Users\SunWeiyi\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['NORMNTN_presence',
+                                             'WKFLDKG_presence',
+                                             'WKFLDWG_presence',
+                                             'BNSLY_presence',
+                                             'MEADWHL_presence',
+                                             'LEEDS_dep_delay',
+                                             'WKFLDKG_dep_delay',
+                                             'WKFLDKG_stay',
+                                             'WKFLDKG_scheduled_stay',
+                                             'WKFLDKG_arr_delay',
+                                             'BNSLY_dep_delay', 'BNS...
+                                             'arrival.time'],
+                                    transformer=TargetEncoder(cols=['LEEDS_dep_time',
+                                                                    'NORMNTN_dep_time',
+                                                                    'NORMNTN_arr_time',
+                                                                    'WKFLDKG_dep_time',
+                                                                    'WKFLDKG_arr_time',
+                                                                    'BNSLY_dep_time',
+                                                                    'BNSLY_arr_time',
+                                                                    'MEADWHL_dep_time',
+                                                                    'MEADWHL_arr_time',
+                                                                    'SHEFFLD_arr_time',
+                                                                    'arrival.time'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames()))])
+2024-03-25 15:49:08,012:INFO:Creating final display dataframe.
+2024-03-25 15:49:09,569:INFO:Setup _display_container:                     Description             Value
+0                    Session id              7485
+1                        Target        delay.secs
+2                   Target type        Regression
+3           Original data shape        (1859, 96)
+4        Transformed data shape       (1859, 247)
+5   Transformed train set shape       (1301, 247)
+6    Transformed test set shape        (558, 247)
+7              Numeric features                61
+8          Categorical features                27
+9      Rows with missing values            100.0%
+10                   Preprocess              True
+11              Imputation type            simple
+12           Numeric imputation              mean
+13       Categorical imputation              mode
+14     Maximum one-hot encoding                25
+15              Encoding method              None
+16               Fold Generator             KFold
+17                  Fold Number                10
+18                     CPU Jobs                -1
+19                      Use GPU             False
+20               Log Experiment      MlflowLogger
+21              Experiment Name  reg-default-name
+22                          USI              0952
+2024-03-25 15:49:09,700:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:09,703:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:09,850:INFO:Soft dependency imported: xgboost: 2.0.3
+2024-03-25 15:49:09,852:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-03-25 15:49:09,854:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\pycaret\internal\metrics.py:51: FutureWarning: The `needs_threshold` and `needs_proba` parameter are deprecated in version 1.4 and will be removed in 1.6. You can either let `response_method` be `None` or set it to `predict` to preserve the same behaviour.
+  warnings.warn(
+
+2024-03-25 15:49:09,854:INFO:Logging experiment in loggers
+2024-03-25 15:49:10,100:INFO:SubProcess save_model() called ==================================
+2024-03-25 15:49:10,126:INFO:Initializing save_model()
+2024-03-25 15:49:10,126:INFO:save_model(model=Pipeline(memory=FastMemory(location=C:\Users\SunWeiyi\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['NORMNTN_presence',
+                                             'WKFLDKG_presence',
+                                             'WKFLDWG_presence',
+                                             'BNSLY_presence',
+                                             'MEADWHL_presence',
+                                             'LEEDS_dep_delay',
+                                             'WKFLDKG_dep_delay',
+                                             'WKFLDKG_stay',
+                                             'WKFLDKG_scheduled_stay',
+                                             'WKFLDKG_arr_delay',
+                                             'BNSLY_dep_delay', 'BNS...
+                                             'arrival.time'],
+                                    transformer=TargetEncoder(cols=['LEEDS_dep_time',
+                                                                    'NORMNTN_dep_time',
+                                                                    'NORMNTN_arr_time',
+                                                                    'WKFLDKG_dep_time',
+                                                                    'WKFLDKG_arr_time',
+                                                                    'BNSLY_dep_time',
+                                                                    'BNSLY_arr_time',
+                                                                    'MEADWHL_dep_time',
+                                                                    'MEADWHL_arr_time',
+                                                                    'SHEFFLD_arr_time',
+                                                                    'arrival.time'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames()))]), model_name=C:\Users\SunWeiyi\AppData\Local\Temp\tmphrn0tash\Transformation Pipeline, prep_pipe_=Pipeline(memory=FastMemory(location=C:\Users\SunWeiyi\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['NORMNTN_presence',
+                                             'WKFLDKG_presence',
+                                             'WKFLDWG_presence',
+                                             'BNSLY_presence',
+                                             'MEADWHL_presence',
+                                             'LEEDS_dep_delay',
+                                             'WKFLDKG_dep_delay',
+                                             'WKFLDKG_stay',
+                                             'WKFLDKG_scheduled_stay',
+                                             'WKFLDKG_arr_delay',
+                                             'BNSLY_dep_delay', 'BNS...
+                                             'arrival.time'],
+                                    transformer=TargetEncoder(cols=['LEEDS_dep_time',
+                                                                    'NORMNTN_dep_time',
+                                                                    'NORMNTN_arr_time',
+                                                                    'WKFLDKG_dep_time',
+                                                                    'WKFLDKG_arr_time',
+                                                                    'BNSLY_dep_time',
+                                                                    'BNSLY_arr_time',
+                                                                    'MEADWHL_dep_time',
+                                                                    'MEADWHL_arr_time',
+                                                                    'SHEFFLD_arr_time',
+                                                                    'arrival.time'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames()))]), verbose=False, use_case=MLUsecase.REGRESSION, kwargs={})
+2024-03-25 15:49:10,126:INFO:Adding model into prep_pipe
+2024-03-25 15:49:10,126:WARNING:Only Model saved as it was a pipeline.
+2024-03-25 15:49:10,179:INFO:C:\Users\SunWeiyi\AppData\Local\Temp\tmphrn0tash\Transformation Pipeline.pkl saved in current working directory
+2024-03-25 15:49:10,192:INFO:Pipeline(memory=FastMemory(location=C:\Users\SunWeiyi\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['NORMNTN_presence',
+                                             'WKFLDKG_presence',
+                                             'WKFLDWG_presence',
+                                             'BNSLY_presence',
+                                             'MEADWHL_presence',
+                                             'LEEDS_dep_delay',
+                                             'WKFLDKG_dep_delay',
+                                             'WKFLDKG_stay',
+                                             'WKFLDKG_scheduled_stay',
+                                             'WKFLDKG_arr_delay',
+                                             'BNSLY_dep_delay', 'BNS...
+                                             'arrival.time'],
+                                    transformer=TargetEncoder(cols=['LEEDS_dep_time',
+                                                                    'NORMNTN_dep_time',
+                                                                    'NORMNTN_arr_time',
+                                                                    'WKFLDKG_dep_time',
+                                                                    'WKFLDKG_arr_time',
+                                                                    'BNSLY_dep_time',
+                                                                    'BNSLY_arr_time',
+                                                                    'MEADWHL_dep_time',
+                                                                    'MEADWHL_arr_time',
+                                                                    'SHEFFLD_arr_time',
+                                                                    'arrival.time'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames()))])
+2024-03-25 15:49:10,192:INFO:save_model() successfully completed......................................
+2024-03-25 15:49:10,294:INFO:SubProcess save_model() end ==================================
+2024-03-25 15:49:10,315:INFO:setup() successfully completed in 5.87s...............
+2024-03-25 15:49:10,315:INFO:Initializing compare_models()
+2024-03-25 15:49:10,315:INFO:compare_models(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, include=None, exclude=None, fold=None, round=4, cross_validation=True, sort=MSE, n_select=1, budget_time=None, turbo=True, errors=ignore, fit_kwargs=None, groups=None, experiment_custom_tags=None, probability_threshold=None, verbose=True, parallel=None, caller_params={'self': <pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, 'include': None, 'exclude': None, 'fold': None, 'round': 4, 'cross_validation': True, 'sort': 'MSE', 'n_select': 1, 'budget_time': None, 'turbo': True, 'errors': 'ignore', 'fit_kwargs': None, 'groups': None, 'experiment_custom_tags': None, 'engine': None, 'verbose': True, 'parallel': None, '__class__': <class 'pycaret.regression.oop.RegressionExperiment'>})
+2024-03-25 15:49:10,315:INFO:Checking exceptions
+2024-03-25 15:49:10,322:INFO:Preparing display monitor
+2024-03-25 15:49:10,346:INFO:Initializing Linear Regression
+2024-03-25 15:49:10,347:INFO:Total runtime is 1.6617774963378907e-05 minutes
+2024-03-25 15:49:10,350:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:49:10,351:INFO:Initializing create_model()
+2024-03-25 15:49:10,351:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=lr, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:49:10,351:INFO:Checking exceptions
+2024-03-25 15:49:10,351:INFO:Importing libraries
+2024-03-25 15:49:10,351:INFO:Copying training dataset
+2024-03-25 15:49:10,408:INFO:Defining folds
+2024-03-25 15:49:10,408:INFO:Declaring metric variables
+2024-03-25 15:49:10,412:INFO:Importing untrained model
+2024-03-25 15:49:10,418:INFO:Linear Regression Imported successfully
+2024-03-25 15:49:10,427:INFO:Starting cross validation
+2024-03-25 15:49:10,442:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:49:31,913:INFO:Calculating mean and std
+2024-03-25 15:49:31,915:INFO:Creating metrics dataframe
+2024-03-25 15:49:31,923:INFO:Uploading results into container
+2024-03-25 15:49:31,925:INFO:Uploading model into container now
+2024-03-25 15:49:31,926:INFO:_master_model_container: 1
+2024-03-25 15:49:31,926:INFO:_display_container: 2
+2024-03-25 15:49:31,927:INFO:LinearRegression(n_jobs=-1)
+2024-03-25 15:49:31,928:INFO:create_model() successfully completed......................................
+2024-03-25 15:49:32,107:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:49:32,108:INFO:Creating metrics dataframe
+2024-03-25 15:49:32,123:INFO:Initializing Lasso Regression
+2024-03-25 15:49:32,124:INFO:Total runtime is 0.3629665891329447 minutes
+2024-03-25 15:49:32,132:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:49:32,132:INFO:Initializing create_model()
+2024-03-25 15:49:32,133:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=lasso, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:49:32,133:INFO:Checking exceptions
+2024-03-25 15:49:32,134:INFO:Importing libraries
+2024-03-25 15:49:32,134:INFO:Copying training dataset
+2024-03-25 15:49:32,185:INFO:Defining folds
+2024-03-25 15:49:32,186:INFO:Declaring metric variables
+2024-03-25 15:49:32,193:INFO:Importing untrained model
+2024-03-25 15:49:32,199:INFO:Lasso Regression Imported successfully
+2024-03-25 15:49:32,213:INFO:Starting cross validation
+2024-03-25 15:49:32,230:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:49:34,750:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 2.168e+04, tolerance: 9.369e+03
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:34,870:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 2.526e+04, tolerance: 9.594e+03
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:34,889:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 2.537e+04, tolerance: 1.019e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:34,903:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 2.585e+04, tolerance: 1.036e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:35,028:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 2.641e+04, tolerance: 1.045e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:35,039:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 2.500e+04, tolerance: 1.044e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:35,045:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 2.549e+04, tolerance: 1.075e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:42,202:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 2.516e+04, tolerance: 1.064e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:42,218:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 2.711e+04, tolerance: 1.032e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:42,606:INFO:Calculating mean and std
+2024-03-25 15:49:42,609:INFO:Creating metrics dataframe
+2024-03-25 15:49:42,613:INFO:Uploading results into container
+2024-03-25 15:49:42,615:INFO:Uploading model into container now
+2024-03-25 15:49:42,616:INFO:_master_model_container: 2
+2024-03-25 15:49:42,616:INFO:_display_container: 2
+2024-03-25 15:49:42,617:INFO:Lasso(random_state=7485)
+2024-03-25 15:49:42,617:INFO:create_model() successfully completed......................................
+2024-03-25 15:49:42,809:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:49:42,810:INFO:Creating metrics dataframe
+2024-03-25 15:49:42,830:INFO:Initializing Ridge Regression
+2024-03-25 15:49:42,831:INFO:Total runtime is 0.5414079586664835 minutes
+2024-03-25 15:49:42,840:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:49:42,840:INFO:Initializing create_model()
+2024-03-25 15:49:42,842:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=ridge, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:49:42,842:INFO:Checking exceptions
+2024-03-25 15:49:42,842:INFO:Importing libraries
+2024-03-25 15:49:42,842:INFO:Copying training dataset
+2024-03-25 15:49:42,893:INFO:Defining folds
+2024-03-25 15:49:42,893:INFO:Declaring metric variables
+2024-03-25 15:49:42,902:INFO:Importing untrained model
+2024-03-25 15:49:42,910:INFO:Ridge Regression Imported successfully
+2024-03-25 15:49:42,933:INFO:Starting cross validation
+2024-03-25 15:49:42,956:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:49:45,529:INFO:Calculating mean and std
+2024-03-25 15:49:45,534:INFO:Creating metrics dataframe
+2024-03-25 15:49:45,541:INFO:Uploading results into container
+2024-03-25 15:49:45,542:INFO:Uploading model into container now
+2024-03-25 15:49:45,543:INFO:_master_model_container: 3
+2024-03-25 15:49:45,543:INFO:_display_container: 2
+2024-03-25 15:49:45,543:INFO:Ridge(random_state=7485)
+2024-03-25 15:49:45,544:INFO:create_model() successfully completed......................................
+2024-03-25 15:49:45,741:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:49:45,741:INFO:Creating metrics dataframe
+2024-03-25 15:49:45,754:INFO:Initializing Elastic Net
+2024-03-25 15:49:45,754:INFO:Total runtime is 0.5901305556297302 minutes
+2024-03-25 15:49:45,760:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:49:45,761:INFO:Initializing create_model()
+2024-03-25 15:49:45,761:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=en, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:49:45,762:INFO:Checking exceptions
+2024-03-25 15:49:45,762:INFO:Importing libraries
+2024-03-25 15:49:45,762:INFO:Copying training dataset
+2024-03-25 15:49:45,815:INFO:Defining folds
+2024-03-25 15:49:45,815:INFO:Declaring metric variables
+2024-03-25 15:49:45,825:INFO:Importing untrained model
+2024-03-25 15:49:45,836:INFO:Elastic Net Imported successfully
+2024-03-25 15:49:45,853:INFO:Starting cross validation
+2024-03-25 15:49:45,873:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:49:48,510:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 3.261e+04, tolerance: 9.369e+03
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:48,650:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 3.777e+04, tolerance: 1.032e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:48,655:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 3.612e+04, tolerance: 1.064e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:48,775:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 3.496e+04, tolerance: 1.067e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:48,902:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 3.693e+04, tolerance: 1.036e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:48,910:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 3.649e+04, tolerance: 1.019e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:48,923:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 3.595e+04, tolerance: 1.044e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:48,936:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 3.530e+04, tolerance: 9.594e+03
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:48,962:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 3.730e+04, tolerance: 1.045e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:48,977:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_coordinate_descent.py:678: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 3.651e+04, tolerance: 1.075e+04
+  model = cd_fast.enet_coordinate_descent(
+
+2024-03-25 15:49:49,455:INFO:Calculating mean and std
+2024-03-25 15:49:49,459:INFO:Creating metrics dataframe
+2024-03-25 15:49:49,464:INFO:Uploading results into container
+2024-03-25 15:49:49,466:INFO:Uploading model into container now
+2024-03-25 15:49:49,468:INFO:_master_model_container: 4
+2024-03-25 15:49:49,468:INFO:_display_container: 2
+2024-03-25 15:49:49,470:INFO:ElasticNet(random_state=7485)
+2024-03-25 15:49:49,470:INFO:create_model() successfully completed......................................
+2024-03-25 15:49:49,715:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:49:49,716:INFO:Creating metrics dataframe
+2024-03-25 15:49:49,742:INFO:Initializing Least Angle Regression
+2024-03-25 15:49:49,742:INFO:Total runtime is 0.6565954168637593 minutes
+2024-03-25 15:49:49,751:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:49:49,752:INFO:Initializing create_model()
+2024-03-25 15:49:49,752:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=lar, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:49:49,752:INFO:Checking exceptions
+2024-03-25 15:49:49,753:INFO:Importing libraries
+2024-03-25 15:49:49,753:INFO:Copying training dataset
+2024-03-25 15:49:49,817:INFO:Defining folds
+2024-03-25 15:49:49,817:INFO:Declaring metric variables
+2024-03-25 15:49:49,827:INFO:Importing untrained model
+2024-03-25 15:49:49,837:INFO:Least Angle Regression Imported successfully
+2024-03-25 15:49:49,857:INFO:Starting cross validation
+2024-03-25 15:49:49,871:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:49:51,499:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 11 iterations, i.e. alpha=1.558e+01, with an active set of 10 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,506:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 17 iterations, i.e. alpha=9.809e+00, with an active set of 15 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,513:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 24 iterations, i.e. alpha=5.153e+00, with an active set of 20 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,530:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 43 iterations, i.e. alpha=6.615e+00, with an active set of 33 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,541:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 7 iterations, i.e. alpha=2.648e+01, with an active set of 7 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,545:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 12 iterations, i.e. alpha=1.311e+01, with an active set of 11 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,595:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 78 iterations, i.e. alpha=1.020e+04, with an active set of 52 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,601:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 83 iterations, i.e. alpha=1.025e+04, with an active set of 55 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,609:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 90 iterations, i.e. alpha=1.057e+04, with an active set of 62 regressors, and the smallest cholesky pivot element being 8.429e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,615:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 95 iterations, i.e. alpha=1.091e+04, with an active set of 66 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,624:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 108 iterations, i.e. alpha=1.336e+04, with an active set of 74 regressors, and the smallest cholesky pivot element being 8.429e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,633:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 118 iterations, i.e. alpha=1.335e+04, with an active set of 83 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,640:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 126 iterations, i.e. alpha=1.978e+04, with an active set of 89 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,645:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 130 iterations, i.e. alpha=2.629e+04, with an active set of 92 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,657:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 137 iterations, i.e. alpha=2.972e+04, with an active set of 97 regressors, and the smallest cholesky pivot element being 1.490e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,657:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 137 iterations, i.e. alpha=2.965e+04, with an active set of 97 regressors, and the smallest cholesky pivot element being 8.429e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,667:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 148 iterations, i.e. alpha=2.537e+04, with an active set of 107 regressors, and the smallest cholesky pivot element being 7.300e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,670:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 94 iterations, i.e. alpha=2.689e+10, with an active set of 57 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,670:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 151 iterations, i.e. alpha=2.509e+04, with an active set of 108 regressors, and the smallest cholesky pivot element being 7.224e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,693:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 119 iterations, i.e. alpha=6.895e+10, with an active set of 76 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,708:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 133 iterations, i.e. alpha=8.024e+10, with an active set of 87 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,709:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 98 iterations, i.e. alpha=1.489e+06, with an active set of 61 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,711:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 135 iterations, i.e. alpha=8.024e+10, with an active set of 89 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,716:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 104 iterations, i.e. alpha=1.568e+06, with an active set of 65 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,724:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 145 iterations, i.e. alpha=8.023e+10, with an active set of 99 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,725:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 110 iterations, i.e. alpha=1.598e+06, with an active set of 70 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,729:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 148 iterations, i.e. alpha=8.023e+10, with an active set of 102 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,736:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 121 iterations, i.e. alpha=3.745e+06, with an active set of 76 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,744:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 130 iterations, i.e. alpha=3.744e+06, with an active set of 83 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,747:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 133 iterations, i.e. alpha=3.743e+06, with an active set of 86 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,748:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 134 iterations, i.e. alpha=3.742e+06, with an active set of 87 regressors, and the smallest cholesky pivot element being 8.429e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,752:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 71 iterations, i.e. alpha=1.082e+06, with an active set of 47 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,767:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 147 iterations, i.e. alpha=4.687e+06, with an active set of 97 regressors, and the smallest cholesky pivot element being 1.054e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,779:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 158 iterations, i.e. alpha=4.327e+06, with an active set of 106 regressors, and the smallest cholesky pivot element being 8.025e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,792:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 123 iterations, i.e. alpha=9.785e+06, with an active set of 83 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,807:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 140 iterations, i.e. alpha=1.256e+07, with an active set of 94 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,810:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 144 iterations, i.e. alpha=1.256e+07, with an active set of 97 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,816:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 147 iterations, i.e. alpha=1.256e+07, with an active set of 99 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,822:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 149 iterations, i.e. alpha=1.242e+07, with an active set of 101 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,844:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 160 iterations, i.e. alpha=1.322e+07, with an active set of 108 regressors, and the smallest cholesky pivot element being 1.490e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,862:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 65 iterations, i.e. alpha=4.961e+01, with an active set of 46 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,897:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 106 iterations, i.e. alpha=7.415e+01, with an active set of 79 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,922:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 127 iterations, i.e. alpha=2.444e+02, with an active set of 96 regressors, and the smallest cholesky pivot element being 1.825e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,924:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 128 iterations, i.e. alpha=2.444e+02, with an active set of 97 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,927:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 129 iterations, i.e. alpha=2.445e+02, with an active set of 98 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,927:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 129 iterations, i.e. alpha=2.444e+02, with an active set of 98 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,937:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 139 iterations, i.e. alpha=2.440e+02, with an active set of 106 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:51,944:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 144 iterations, i.e. alpha=2.420e+02, with an active set of 109 regressors, and the smallest cholesky pivot element being 1.490e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,079:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 55 iterations, i.e. alpha=2.121e+02, with an active set of 42 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,082:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 59 iterations, i.e. alpha=1.764e+02, with an active set of 43 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,090:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 71 iterations, i.e. alpha=1.979e+02, with an active set of 52 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,104:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 88 iterations, i.e. alpha=6.158e+02, with an active set of 64 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,106:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 89 iterations, i.e. alpha=6.158e+02, with an active set of 65 regressors, and the smallest cholesky pivot element being 8.429e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,115:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 107 iterations, i.e. alpha=3.096e+02, with an active set of 76 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,124:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 116 iterations, i.e. alpha=4.785e+02, with an active set of 81 regressors, and the smallest cholesky pivot element being 1.054e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,129:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 122 iterations, i.e. alpha=4.778e+02, with an active set of 85 regressors, and the smallest cholesky pivot element being 8.429e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,132:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 122 iterations, i.e. alpha=4.778e+02, with an active set of 85 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,152:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 139 iterations, i.e. alpha=1.484e+03, with an active set of 96 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,159:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 145 iterations, i.e. alpha=4.817e+03, with an active set of 99 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,224:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 14 iterations, i.e. alpha=3.771e+00, with an active set of 13 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,225:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 108 iterations, i.e. alpha=5.287e+02, with an active set of 76 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,227:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 18 iterations, i.e. alpha=3.636e+00, with an active set of 16 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,228:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 19 iterations, i.e. alpha=1.835e+00, with an active set of 17 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,235:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 29 iterations, i.e. alpha=1.579e+00, with an active set of 25 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,237:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 123 iterations, i.e. alpha=9.826e+02, with an active set of 87 regressors, and the smallest cholesky pivot element being 8.429e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,237:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 123 iterations, i.e. alpha=9.826e+02, with an active set of 87 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,241:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 125 iterations, i.e. alpha=9.823e+02, with an active set of 89 regressors, and the smallest cholesky pivot element being 8.429e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,244:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 129 iterations, i.e. alpha=9.819e+02, with an active set of 93 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,244:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 129 iterations, i.e. alpha=9.819e+02, with an active set of 93 regressors, and the smallest cholesky pivot element being 1.054e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,245:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 46 iterations, i.e. alpha=2.250e+00, with an active set of 36 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,245:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 129 iterations, i.e. alpha=9.818e+02, with an active set of 93 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,263:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 153 iterations, i.e. alpha=1.069e+04, with an active set of 103 regressors, and the smallest cholesky pivot element being 1.054e-08. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,269:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 83 iterations, i.e. alpha=3.641e+01, with an active set of 62 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:52,282:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\metrics\_regression.py:501: RuntimeWarning: overflow encountered in square
+  output_errors = np.average((y_true - y_pred) ** 2, axis=0, weights=sample_weight)
+
+2024-03-25 15:49:52,285:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\metrics\_regression.py:501: RuntimeWarning: overflow encountered in square
+  output_errors = np.average((y_true - y_pred) ** 2, axis=0, weights=sample_weight)
+
+2024-03-25 15:49:52,293:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\metrics\_regression.py:1196: RuntimeWarning: overflow encountered in square
+  numerator = (weight * (y_true - y_pred) ** 2).sum(axis=0, dtype=np.float64)
+
+2024-03-25 15:49:52,822:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\metrics\_regression.py:501: RuntimeWarning: overflow encountered in square
+  output_errors = np.average((y_true - y_pred) ** 2, axis=0, weights=sample_weight)
+
+2024-03-25 15:49:52,824:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\metrics\_regression.py:501: RuntimeWarning: overflow encountered in square
+  output_errors = np.average((y_true - y_pred) ** 2, axis=0, weights=sample_weight)
+
+2024-03-25 15:49:52,826:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\metrics\_regression.py:1196: RuntimeWarning: overflow encountered in square
+  numerator = (weight * (y_true - y_pred) ** 2).sum(axis=0, dtype=np.float64)
+
+2024-03-25 15:49:52,835:INFO:Calculating mean and std
+2024-03-25 15:49:52,838:WARNING:d:\Code\Anaconda\Lib\site-packages\numpy\core\_methods.py:239: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+
+2024-03-25 15:49:52,839:WARNING:d:\Code\Anaconda\Lib\site-packages\numpy\core\_methods.py:236: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+
+2024-03-25 15:49:52,842:INFO:Creating metrics dataframe
+2024-03-25 15:49:52,849:INFO:Uploading results into container
+2024-03-25 15:49:52,850:INFO:Uploading model into container now
+2024-03-25 15:49:52,852:INFO:_master_model_container: 5
+2024-03-25 15:49:52,852:INFO:_display_container: 2
+2024-03-25 15:49:52,854:INFO:Lars(random_state=7485)
+2024-03-25 15:49:52,854:INFO:create_model() successfully completed......................................
+2024-03-25 15:49:53,050:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:49:53,051:INFO:Creating metrics dataframe
+2024-03-25 15:49:53,067:INFO:Initializing Lasso Least Angle Regression
+2024-03-25 15:49:53,067:INFO:Total runtime is 0.7120158910751343 minutes
+2024-03-25 15:49:53,075:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:49:53,076:INFO:Initializing create_model()
+2024-03-25 15:49:53,076:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=llar, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:49:53,076:INFO:Checking exceptions
+2024-03-25 15:49:53,076:INFO:Importing libraries
+2024-03-25 15:49:53,076:INFO:Copying training dataset
+2024-03-25 15:49:53,118:INFO:Defining folds
+2024-03-25 15:49:53,118:INFO:Declaring metric variables
+2024-03-25 15:49:53,126:INFO:Importing untrained model
+2024-03-25 15:49:53,132:INFO:Lasso Least Angle Regression Imported successfully
+2024-03-25 15:49:53,144:INFO:Starting cross validation
+2024-03-25 15:49:53,156:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:49:54,528:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:688: ConvergenceWarning: Regressors in active set degenerate. Dropping a regressor, after 7 iterations, i.e. alpha=2.648e+01, with an active set of 7 regressors, and the smallest cholesky pivot element being 2.220e-16. Reduce max_iter or increase eps parameters.
+  warnings.warn(
+
+2024-03-25 15:49:54,532:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_least_angle.py:718: ConvergenceWarning: Early stopping the lars path, as the residues are small and the current value of alpha is no longer well controlled. 10 iterations, alpha=2.121e+01, previous alpha=2.111e+01, with an active set of 9 regressors.
+  warnings.warn(
+
+2024-03-25 15:49:56,152:INFO:Calculating mean and std
+2024-03-25 15:49:56,154:INFO:Creating metrics dataframe
+2024-03-25 15:49:56,158:INFO:Uploading results into container
+2024-03-25 15:49:56,159:INFO:Uploading model into container now
+2024-03-25 15:49:56,160:INFO:_master_model_container: 6
+2024-03-25 15:49:56,160:INFO:_display_container: 2
+2024-03-25 15:49:56,162:INFO:LassoLars(random_state=7485)
+2024-03-25 15:49:56,162:INFO:create_model() successfully completed......................................
+2024-03-25 15:49:56,322:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:49:56,323:INFO:Creating metrics dataframe
+2024-03-25 15:49:56,341:INFO:Initializing Orthogonal Matching Pursuit
+2024-03-25 15:49:56,341:INFO:Total runtime is 0.7665806492169698 minutes
+2024-03-25 15:49:56,347:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:49:56,348:INFO:Initializing create_model()
+2024-03-25 15:49:56,348:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=omp, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:49:56,348:INFO:Checking exceptions
+2024-03-25 15:49:56,349:INFO:Importing libraries
+2024-03-25 15:49:56,349:INFO:Copying training dataset
+2024-03-25 15:49:56,392:INFO:Defining folds
+2024-03-25 15:49:56,392:INFO:Declaring metric variables
+2024-03-25 15:49:56,397:INFO:Importing untrained model
+2024-03-25 15:49:56,405:INFO:Orthogonal Matching Pursuit Imported successfully
+2024-03-25 15:49:56,419:INFO:Starting cross validation
+2024-03-25 15:49:56,433:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:49:58,790:INFO:Calculating mean and std
+2024-03-25 15:49:58,793:INFO:Creating metrics dataframe
+2024-03-25 15:49:58,796:INFO:Uploading results into container
+2024-03-25 15:49:58,797:INFO:Uploading model into container now
+2024-03-25 15:49:58,798:INFO:_master_model_container: 7
+2024-03-25 15:49:58,798:INFO:_display_container: 2
+2024-03-25 15:49:58,799:INFO:OrthogonalMatchingPursuit()
+2024-03-25 15:49:58,799:INFO:create_model() successfully completed......................................
+2024-03-25 15:49:58,977:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:49:58,977:INFO:Creating metrics dataframe
+2024-03-25 15:49:58,995:INFO:Initializing Bayesian Ridge
+2024-03-25 15:49:58,995:INFO:Total runtime is 0.8108185529708862 minutes
+2024-03-25 15:49:59,002:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:49:59,003:INFO:Initializing create_model()
+2024-03-25 15:49:59,003:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=br, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:49:59,003:INFO:Checking exceptions
+2024-03-25 15:49:59,004:INFO:Importing libraries
+2024-03-25 15:49:59,004:INFO:Copying training dataset
+2024-03-25 15:49:59,042:INFO:Defining folds
+2024-03-25 15:49:59,043:INFO:Declaring metric variables
+2024-03-25 15:49:59,054:INFO:Importing untrained model
+2024-03-25 15:49:59,064:INFO:Bayesian Ridge Imported successfully
+2024-03-25 15:49:59,082:INFO:Starting cross validation
+2024-03-25 15:49:59,102:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:50:01,350:INFO:Calculating mean and std
+2024-03-25 15:50:01,352:INFO:Creating metrics dataframe
+2024-03-25 15:50:01,356:INFO:Uploading results into container
+2024-03-25 15:50:01,357:INFO:Uploading model into container now
+2024-03-25 15:50:01,358:INFO:_master_model_container: 8
+2024-03-25 15:50:01,359:INFO:_display_container: 2
+2024-03-25 15:50:01,360:INFO:BayesianRidge()
+2024-03-25 15:50:01,360:INFO:create_model() successfully completed......................................
+2024-03-25 15:50:01,569:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:50:01,569:INFO:Creating metrics dataframe
+2024-03-25 15:50:01,597:INFO:Initializing Passive Aggressive Regressor
+2024-03-25 15:50:01,598:INFO:Total runtime is 0.8541913708051045 minutes
+2024-03-25 15:50:01,608:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:50:01,609:INFO:Initializing create_model()
+2024-03-25 15:50:01,609:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=par, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:50:01,610:INFO:Checking exceptions
+2024-03-25 15:50:01,610:INFO:Importing libraries
+2024-03-25 15:50:01,610:INFO:Copying training dataset
+2024-03-25 15:50:01,657:INFO:Defining folds
+2024-03-25 15:50:01,658:INFO:Declaring metric variables
+2024-03-25 15:50:01,665:INFO:Importing untrained model
+2024-03-25 15:50:01,674:INFO:Passive Aggressive Regressor Imported successfully
+2024-03-25 15:50:01,688:INFO:Starting cross validation
+2024-03-25 15:50:01,709:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:50:04,460:INFO:Calculating mean and std
+2024-03-25 15:50:04,465:INFO:Creating metrics dataframe
+2024-03-25 15:50:04,472:INFO:Uploading results into container
+2024-03-25 15:50:04,474:INFO:Uploading model into container now
+2024-03-25 15:50:04,476:INFO:_master_model_container: 9
+2024-03-25 15:50:04,476:INFO:_display_container: 2
+2024-03-25 15:50:04,478:INFO:PassiveAggressiveRegressor(random_state=7485)
+2024-03-25 15:50:04,478:INFO:create_model() successfully completed......................................
+2024-03-25 15:50:04,706:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:50:04,706:INFO:Creating metrics dataframe
+2024-03-25 15:50:04,728:INFO:Initializing Huber Regressor
+2024-03-25 15:50:04,728:INFO:Total runtime is 0.9063631176948547 minutes
+2024-03-25 15:50:04,736:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:50:04,736:INFO:Initializing create_model()
+2024-03-25 15:50:04,737:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=huber, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:50:04,737:INFO:Checking exceptions
+2024-03-25 15:50:04,737:INFO:Importing libraries
+2024-03-25 15:50:04,738:INFO:Copying training dataset
+2024-03-25 15:50:04,784:INFO:Defining folds
+2024-03-25 15:50:04,785:INFO:Declaring metric variables
+2024-03-25 15:50:04,790:INFO:Importing untrained model
+2024-03-25 15:50:04,798:INFO:Huber Regressor Imported successfully
+2024-03-25 15:50:04,817:INFO:Starting cross validation
+2024-03-25 15:50:04,840:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:50:07,275:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-03-25 15:50:07,405:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-03-25 15:50:07,407:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-03-25 15:50:07,529:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-03-25 15:50:07,559:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-03-25 15:50:07,571:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-03-25 15:50:07,692:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-03-25 15:50:07,694:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-03-25 15:50:07,701:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-03-25 15:50:07,784:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-03-25 15:50:08,075:INFO:Calculating mean and std
+2024-03-25 15:50:08,077:INFO:Creating metrics dataframe
+2024-03-25 15:50:08,082:INFO:Uploading results into container
+2024-03-25 15:50:08,083:INFO:Uploading model into container now
+2024-03-25 15:50:08,084:INFO:_master_model_container: 10
+2024-03-25 15:50:08,084:INFO:_display_container: 2
+2024-03-25 15:50:08,084:INFO:HuberRegressor()
+2024-03-25 15:50:08,084:INFO:create_model() successfully completed......................................
+2024-03-25 15:50:08,304:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:50:08,305:INFO:Creating metrics dataframe
+2024-03-25 15:50:08,322:INFO:Initializing K Neighbors Regressor
+2024-03-25 15:50:08,323:INFO:Total runtime is 0.966292111078898 minutes
+2024-03-25 15:50:08,332:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:50:08,332:INFO:Initializing create_model()
+2024-03-25 15:50:08,333:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=knn, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:50:08,333:INFO:Checking exceptions
+2024-03-25 15:50:08,333:INFO:Importing libraries
+2024-03-25 15:50:08,334:INFO:Copying training dataset
+2024-03-25 15:50:08,405:INFO:Defining folds
+2024-03-25 15:50:08,405:INFO:Declaring metric variables
+2024-03-25 15:50:08,417:INFO:Importing untrained model
+2024-03-25 15:50:08,426:INFO:K Neighbors Regressor Imported successfully
+2024-03-25 15:50:08,441:INFO:Starting cross validation
+2024-03-25 15:50:08,452:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:50:11,489:INFO:Calculating mean and std
+2024-03-25 15:50:11,492:INFO:Creating metrics dataframe
+2024-03-25 15:50:11,496:INFO:Uploading results into container
+2024-03-25 15:50:11,497:INFO:Uploading model into container now
+2024-03-25 15:50:11,498:INFO:_master_model_container: 11
+2024-03-25 15:50:11,499:INFO:_display_container: 2
+2024-03-25 15:50:11,499:INFO:KNeighborsRegressor(n_jobs=-1)
+2024-03-25 15:50:11,500:INFO:create_model() successfully completed......................................
+2024-03-25 15:50:11,690:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:50:11,691:INFO:Creating metrics dataframe
+2024-03-25 15:50:11,713:INFO:Initializing Decision Tree Regressor
+2024-03-25 15:50:11,713:INFO:Total runtime is 1.022782802581787 minutes
+2024-03-25 15:50:11,720:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:50:11,720:INFO:Initializing create_model()
+2024-03-25 15:50:11,720:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=dt, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:50:11,720:INFO:Checking exceptions
+2024-03-25 15:50:11,722:INFO:Importing libraries
+2024-03-25 15:50:11,722:INFO:Copying training dataset
+2024-03-25 15:50:11,793:INFO:Defining folds
+2024-03-25 15:50:11,793:INFO:Declaring metric variables
+2024-03-25 15:50:11,802:INFO:Importing untrained model
+2024-03-25 15:50:11,810:INFO:Decision Tree Regressor Imported successfully
+2024-03-25 15:50:11,828:INFO:Starting cross validation
+2024-03-25 15:50:11,843:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:50:14,873:INFO:Calculating mean and std
+2024-03-25 15:50:14,877:INFO:Creating metrics dataframe
+2024-03-25 15:50:14,884:INFO:Uploading results into container
+2024-03-25 15:50:14,885:INFO:Uploading model into container now
+2024-03-25 15:50:14,887:INFO:_master_model_container: 12
+2024-03-25 15:50:14,887:INFO:_display_container: 2
+2024-03-25 15:50:14,888:INFO:DecisionTreeRegressor(random_state=7485)
+2024-03-25 15:50:14,888:INFO:create_model() successfully completed......................................
+2024-03-25 15:50:15,096:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:50:15,097:INFO:Creating metrics dataframe
+2024-03-25 15:50:15,117:INFO:Initializing Random Forest Regressor
+2024-03-25 15:50:15,118:INFO:Total runtime is 1.0795328259468078 minutes
+2024-03-25 15:50:15,124:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:50:15,125:INFO:Initializing create_model()
+2024-03-25 15:50:15,126:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=rf, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:50:15,126:INFO:Checking exceptions
+2024-03-25 15:50:15,126:INFO:Importing libraries
+2024-03-25 15:50:15,127:INFO:Copying training dataset
+2024-03-25 15:50:15,206:INFO:Defining folds
+2024-03-25 15:50:15,206:INFO:Declaring metric variables
+2024-03-25 15:50:15,219:INFO:Importing untrained model
+2024-03-25 15:50:15,229:INFO:Random Forest Regressor Imported successfully
+2024-03-25 15:50:15,252:INFO:Starting cross validation
+2024-03-25 15:50:15,276:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:50:30,844:INFO:Calculating mean and std
+2024-03-25 15:50:30,848:INFO:Creating metrics dataframe
+2024-03-25 15:50:30,855:INFO:Uploading results into container
+2024-03-25 15:50:30,856:INFO:Uploading model into container now
+2024-03-25 15:50:30,858:INFO:_master_model_container: 13
+2024-03-25 15:50:30,858:INFO:_display_container: 2
+2024-03-25 15:50:30,860:INFO:RandomForestRegressor(n_jobs=-1, random_state=7485)
+2024-03-25 15:50:30,860:INFO:create_model() successfully completed......................................
+2024-03-25 15:50:31,075:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:50:31,076:INFO:Creating metrics dataframe
+2024-03-25 15:50:31,102:INFO:Initializing Extra Trees Regressor
+2024-03-25 15:50:31,103:INFO:Total runtime is 1.3459500432014464 minutes
+2024-03-25 15:50:31,113:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:50:31,114:INFO:Initializing create_model()
+2024-03-25 15:50:31,114:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=et, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:50:31,115:INFO:Checking exceptions
+2024-03-25 15:50:31,115:INFO:Importing libraries
+2024-03-25 15:50:31,115:INFO:Copying training dataset
+2024-03-25 15:50:31,183:INFO:Defining folds
+2024-03-25 15:50:31,184:INFO:Declaring metric variables
+2024-03-25 15:50:31,194:INFO:Importing untrained model
+2024-03-25 15:50:31,203:INFO:Extra Trees Regressor Imported successfully
+2024-03-25 15:50:31,218:INFO:Starting cross validation
+2024-03-25 15:50:31,237:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:50:46,183:INFO:Calculating mean and std
+2024-03-25 15:50:46,186:INFO:Creating metrics dataframe
+2024-03-25 15:50:46,197:INFO:Uploading results into container
+2024-03-25 15:50:46,198:INFO:Uploading model into container now
+2024-03-25 15:50:46,200:INFO:_master_model_container: 14
+2024-03-25 15:50:46,201:INFO:_display_container: 2
+2024-03-25 15:50:46,202:INFO:ExtraTreesRegressor(n_jobs=-1, random_state=7485)
+2024-03-25 15:50:46,202:INFO:create_model() successfully completed......................................
+2024-03-25 15:50:46,435:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:50:46,436:INFO:Creating metrics dataframe
+2024-03-25 15:50:46,480:INFO:Initializing AdaBoost Regressor
+2024-03-25 15:50:46,480:INFO:Total runtime is 1.6022278587023415 minutes
+2024-03-25 15:50:46,490:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:50:46,492:INFO:Initializing create_model()
+2024-03-25 15:50:46,492:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=ada, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:50:46,493:INFO:Checking exceptions
+2024-03-25 15:50:46,493:INFO:Importing libraries
+2024-03-25 15:50:46,493:INFO:Copying training dataset
+2024-03-25 15:50:46,572:INFO:Defining folds
+2024-03-25 15:50:46,573:INFO:Declaring metric variables
+2024-03-25 15:50:46,586:INFO:Importing untrained model
+2024-03-25 15:50:46,599:INFO:AdaBoost Regressor Imported successfully
+2024-03-25 15:50:46,627:INFO:Starting cross validation
+2024-03-25 15:50:46,690:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:50:53,142:INFO:Calculating mean and std
+2024-03-25 15:50:53,147:INFO:Creating metrics dataframe
+2024-03-25 15:50:53,153:INFO:Uploading results into container
+2024-03-25 15:50:53,154:INFO:Uploading model into container now
+2024-03-25 15:50:53,156:INFO:_master_model_container: 15
+2024-03-25 15:50:53,157:INFO:_display_container: 2
+2024-03-25 15:50:53,158:INFO:AdaBoostRegressor(random_state=7485)
+2024-03-25 15:50:53,158:INFO:create_model() successfully completed......................................
+2024-03-25 15:50:53,380:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:50:53,380:INFO:Creating metrics dataframe
+2024-03-25 15:50:53,410:INFO:Initializing Gradient Boosting Regressor
+2024-03-25 15:50:53,410:INFO:Total runtime is 1.7177275419235227 minutes
+2024-03-25 15:50:53,423:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:50:53,425:INFO:Initializing create_model()
+2024-03-25 15:50:53,425:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=gbr, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:50:53,425:INFO:Checking exceptions
+2024-03-25 15:50:53,425:INFO:Importing libraries
+2024-03-25 15:50:53,426:INFO:Copying training dataset
+2024-03-25 15:50:53,522:INFO:Defining folds
+2024-03-25 15:50:53,523:INFO:Declaring metric variables
+2024-03-25 15:50:53,535:INFO:Importing untrained model
+2024-03-25 15:50:53,547:INFO:Gradient Boosting Regressor Imported successfully
+2024-03-25 15:50:53,571:INFO:Starting cross validation
+2024-03-25 15:50:53,593:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:51:02,547:INFO:Calculating mean and std
+2024-03-25 15:51:02,550:INFO:Creating metrics dataframe
+2024-03-25 15:51:02,559:INFO:Uploading results into container
+2024-03-25 15:51:02,560:INFO:Uploading model into container now
+2024-03-25 15:51:02,561:INFO:_master_model_container: 16
+2024-03-25 15:51:02,562:INFO:_display_container: 2
+2024-03-25 15:51:02,563:INFO:GradientBoostingRegressor(random_state=7485)
+2024-03-25 15:51:02,563:INFO:create_model() successfully completed......................................
+2024-03-25 15:51:02,815:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:51:02,815:INFO:Creating metrics dataframe
+2024-03-25 15:51:02,858:INFO:Initializing Extreme Gradient Boosting
+2024-03-25 15:51:02,859:INFO:Total runtime is 1.8752222100893654 minutes
+2024-03-25 15:51:02,868:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:51:02,868:INFO:Initializing create_model()
+2024-03-25 15:51:02,869:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=xgboost, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:51:02,869:INFO:Checking exceptions
+2024-03-25 15:51:02,869:INFO:Importing libraries
+2024-03-25 15:51:02,870:INFO:Copying training dataset
+2024-03-25 15:51:02,940:INFO:Defining folds
+2024-03-25 15:51:02,940:INFO:Declaring metric variables
+2024-03-25 15:51:02,950:INFO:Importing untrained model
+2024-03-25 15:51:02,963:INFO:Extreme Gradient Boosting Imported successfully
+2024-03-25 15:51:02,986:INFO:Starting cross validation
+2024-03-25 15:51:03,002:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:51:10,902:INFO:Calculating mean and std
+2024-03-25 15:51:10,905:INFO:Creating metrics dataframe
+2024-03-25 15:51:10,909:INFO:Uploading results into container
+2024-03-25 15:51:10,910:INFO:Uploading model into container now
+2024-03-25 15:51:10,910:INFO:_master_model_container: 17
+2024-03-25 15:51:10,912:INFO:_display_container: 2
+2024-03-25 15:51:10,915:INFO:XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, device='cpu', early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=None, n_jobs=-1,
+             num_parallel_tree=None, random_state=7485, ...)
+2024-03-25 15:51:10,916:INFO:create_model() successfully completed......................................
+2024-03-25 15:51:11,085:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:51:11,085:INFO:Creating metrics dataframe
+2024-03-25 15:51:11,110:INFO:Initializing Light Gradient Boosting Machine
+2024-03-25 15:51:11,111:INFO:Total runtime is 2.012755175431569 minutes
+2024-03-25 15:51:11,118:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:51:11,119:INFO:Initializing create_model()
+2024-03-25 15:51:11,119:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=lightgbm, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:51:11,119:INFO:Checking exceptions
+2024-03-25 15:51:11,120:INFO:Importing libraries
+2024-03-25 15:51:11,120:INFO:Copying training dataset
+2024-03-25 15:51:11,155:INFO:Defining folds
+2024-03-25 15:51:11,156:INFO:Declaring metric variables
+2024-03-25 15:51:11,163:INFO:Importing untrained model
+2024-03-25 15:51:11,169:INFO:Light Gradient Boosting Machine Imported successfully
+2024-03-25 15:51:11,181:INFO:Starting cross validation
+2024-03-25 15:51:11,192:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:51:27,104:INFO:Calculating mean and std
+2024-03-25 15:51:27,109:INFO:Creating metrics dataframe
+2024-03-25 15:51:27,120:INFO:Uploading results into container
+2024-03-25 15:51:27,123:INFO:Uploading model into container now
+2024-03-25 15:51:27,124:INFO:_master_model_container: 18
+2024-03-25 15:51:27,125:INFO:_display_container: 2
+2024-03-25 15:51:27,126:INFO:LGBMRegressor(n_jobs=-1, random_state=7485)
+2024-03-25 15:51:27,126:INFO:create_model() successfully completed......................................
+2024-03-25 15:51:27,375:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:51:27,375:INFO:Creating metrics dataframe
+2024-03-25 15:51:27,433:INFO:Initializing Dummy Regressor
+2024-03-25 15:51:27,434:INFO:Total runtime is 2.284797684351603 minutes
+2024-03-25 15:51:27,444:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:51:27,445:INFO:Initializing create_model()
+2024-03-25 15:51:27,445:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=dummy, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203CF1AC4D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:51:27,446:INFO:Checking exceptions
+2024-03-25 15:51:27,447:INFO:Importing libraries
+2024-03-25 15:51:27,447:INFO:Copying training dataset
+2024-03-25 15:51:27,530:INFO:Defining folds
+2024-03-25 15:51:27,531:INFO:Declaring metric variables
+2024-03-25 15:51:27,545:INFO:Importing untrained model
+2024-03-25 15:51:27,556:INFO:Dummy Regressor Imported successfully
+2024-03-25 15:51:27,591:INFO:Starting cross validation
+2024-03-25 15:51:27,626:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:51:32,043:INFO:Calculating mean and std
+2024-03-25 15:51:32,045:INFO:Creating metrics dataframe
+2024-03-25 15:51:32,051:INFO:Uploading results into container
+2024-03-25 15:51:32,053:INFO:Uploading model into container now
+2024-03-25 15:51:32,054:INFO:_master_model_container: 19
+2024-03-25 15:51:32,054:INFO:_display_container: 2
+2024-03-25 15:51:32,055:INFO:DummyRegressor()
+2024-03-25 15:51:32,056:INFO:create_model() successfully completed......................................
+2024-03-25 15:51:32,296:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:51:32,298:INFO:Creating metrics dataframe
+2024-03-25 15:51:32,446:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\pycaret\internal\pycaret_experiment\supervised_experiment.py:339: FutureWarning: Styler.applymap has been deprecated. Use Styler.map instead.
+  .applymap(highlight_cols, subset=["TT (Sec)"])
+
+2024-03-25 15:51:32,486:INFO:Initializing create_model()
+2024-03-25 15:51:32,487:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=KNeighborsRegressor(n_jobs=-1), fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:51:32,487:INFO:Checking exceptions
+2024-03-25 15:51:32,492:INFO:Importing libraries
+2024-03-25 15:51:32,493:INFO:Copying training dataset
+2024-03-25 15:51:32,667:INFO:Defining folds
+2024-03-25 15:51:32,667:INFO:Declaring metric variables
+2024-03-25 15:51:32,668:INFO:Importing untrained model
+2024-03-25 15:51:32,668:INFO:Declaring custom model
+2024-03-25 15:51:32,670:INFO:K Neighbors Regressor Imported successfully
+2024-03-25 15:51:32,689:INFO:Cross validation set to False
+2024-03-25 15:51:32,689:INFO:Fitting Model
+2024-03-25 15:51:33,906:INFO:KNeighborsRegressor(n_jobs=-1)
+2024-03-25 15:51:33,906:INFO:create_model() successfully completed......................................
+2024-03-25 15:51:34,088:INFO:Creating Dashboard logs
+2024-03-25 15:51:34,095:INFO:Model: K Neighbors Regressor
+2024-03-25 15:51:34,194:INFO:Logged params: {'algorithm': 'auto', 'leaf_size': 30, 'metric': 'minkowski', 'metric_params': None, 'n_jobs': -1, 'n_neighbors': 5, 'p': 2, 'weights': 'uniform'}
+2024-03-25 15:51:34,330:INFO:Initializing predict_model()
+2024-03-25 15:51:34,330:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=KNeighborsRegressor(n_jobs=-1), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000203E19237E0>)
+2024-03-25 15:51:34,330:INFO:Checking exceptions
+2024-03-25 15:51:34,330:INFO:Preloading libraries
+2024-03-25 15:51:35,047:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\metrics\_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+
+2024-03-25 15:51:35,312:WARNING:d:\Code\Anaconda\Lib\site-packages\_distutils_hack\__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+2024-03-25 15:51:36,345:INFO:Creating Dashboard logs
+2024-03-25 15:51:36,349:INFO:Model: Light Gradient Boosting Machine
+2024-03-25 15:51:36,427:INFO:Logged params: {'boosting_type': 'gbdt', 'class_weight': None, 'colsample_bytree': 1.0, 'importance_type': 'split', 'learning_rate': 0.1, 'max_depth': -1, 'min_child_samples': 20, 'min_child_weight': 0.001, 'min_split_gain': 0.0, 'n_estimators': 100, 'n_jobs': -1, 'num_leaves': 31, 'objective': None, 'random_state': 7485, 'reg_alpha': 0.0, 'reg_lambda': 0.0, 'subsample': 1.0, 'subsample_for_bin': 200000, 'subsample_freq': 0}
+2024-03-25 15:51:36,754:INFO:Creating Dashboard logs
+2024-03-25 15:51:36,760:INFO:Model: Extra Trees Regressor
+2024-03-25 15:51:36,829:INFO:Logged params: {'bootstrap': False, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'monotonic_cst': None, 'n_estimators': 100, 'n_jobs': -1, 'oob_score': False, 'random_state': 7485, 'verbose': 0, 'warm_start': False}
+2024-03-25 15:51:37,226:INFO:Creating Dashboard logs
+2024-03-25 15:51:37,231:INFO:Model: Extreme Gradient Boosting
+2024-03-25 15:51:37,313:INFO:Logged params: {'objective': 'reg:squarederror', 'base_score': None, 'booster': 'gbtree', 'callbacks': None, 'colsample_bylevel': None, 'colsample_bynode': None, 'colsample_bytree': None, 'device': 'cpu', 'early_stopping_rounds': None, 'enable_categorical': False, 'eval_metric': None, 'feature_types': None, 'gamma': None, 'grow_policy': None, 'importance_type': None, 'interaction_constraints': None, 'learning_rate': None, 'max_bin': None, 'max_cat_threshold': None, 'max_cat_to_onehot': None, 'max_delta_step': None, 'max_depth': None, 'max_leaves': None, 'min_child_weight': None, 'missing': nan, 'monotone_constraints': None, 'multi_strategy': None, 'n_estimators': None, 'n_jobs': -1, 'num_parallel_tree': None, 'random_state': 7485, 'reg_alpha': None, 'reg_lambda': None, 'sampling_method': None, 'scale_pos_weight': None, 'subsample': None, 'tree_method': 'auto', 'validate_parameters': None, 'verbosity': 0}
+2024-03-25 15:51:37,692:INFO:Creating Dashboard logs
+2024-03-25 15:51:37,697:INFO:Model: Passive Aggressive Regressor
+2024-03-25 15:51:37,765:INFO:Logged params: {'C': 1.0, 'average': False, 'early_stopping': False, 'epsilon': 0.1, 'fit_intercept': True, 'loss': 'epsilon_insensitive', 'max_iter': 1000, 'n_iter_no_change': 5, 'random_state': 7485, 'shuffle': True, 'tol': 0.001, 'validation_fraction': 0.1, 'verbose': 0, 'warm_start': False}
+2024-03-25 15:51:38,090:INFO:Creating Dashboard logs
+2024-03-25 15:51:38,095:INFO:Model: Elastic Net
+2024-03-25 15:51:38,159:INFO:Logged params: {'alpha': 1.0, 'copy_X': True, 'fit_intercept': True, 'l1_ratio': 0.5, 'max_iter': 1000, 'positive': False, 'precompute': False, 'random_state': 7485, 'selection': 'cyclic', 'tol': 0.0001, 'warm_start': False}
+2024-03-25 15:51:38,468:INFO:Creating Dashboard logs
+2024-03-25 15:51:38,472:INFO:Model: Lasso Regression
+2024-03-25 15:51:38,538:INFO:Logged params: {'alpha': 1.0, 'copy_X': True, 'fit_intercept': True, 'max_iter': 1000, 'positive': False, 'precompute': False, 'random_state': 7485, 'selection': 'cyclic', 'tol': 0.0001, 'warm_start': False}
+2024-03-25 15:51:38,834:INFO:Creating Dashboard logs
+2024-03-25 15:51:38,838:INFO:Model: Lasso Least Angle Regression
+2024-03-25 15:51:38,890:INFO:Logged params: {'alpha': 1.0, 'copy_X': True, 'eps': 2.220446049250313e-16, 'fit_intercept': True, 'fit_path': True, 'jitter': None, 'max_iter': 500, 'positive': False, 'precompute': 'auto', 'random_state': 7485, 'verbose': False}
+2024-03-25 15:51:39,295:INFO:Creating Dashboard logs
+2024-03-25 15:51:39,302:INFO:Model: Gradient Boosting Regressor
+2024-03-25 15:51:39,380:INFO:Logged params: {'alpha': 0.9, 'ccp_alpha': 0.0, 'criterion': 'friedman_mse', 'init': None, 'learning_rate': 0.1, 'loss': 'squared_error', 'max_depth': 3, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_iter_no_change': None, 'random_state': 7485, 'subsample': 1.0, 'tol': 0.0001, 'validation_fraction': 0.1, 'verbose': 0, 'warm_start': False}
+2024-03-25 15:51:39,688:INFO:Creating Dashboard logs
+2024-03-25 15:51:39,692:INFO:Model: Orthogonal Matching Pursuit
+2024-03-25 15:51:39,744:INFO:Logged params: {'fit_intercept': True, 'n_nonzero_coefs': None, 'precompute': 'auto', 'tol': None}
+2024-03-25 15:51:40,055:INFO:Creating Dashboard logs
+2024-03-25 15:51:40,065:INFO:Model: Random Forest Regressor
+2024-03-25 15:51:40,160:INFO:Logged params: {'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'monotonic_cst': None, 'n_estimators': 100, 'n_jobs': -1, 'oob_score': False, 'random_state': 7485, 'verbose': 0, 'warm_start': False}
+2024-03-25 15:51:40,469:INFO:Creating Dashboard logs
+2024-03-25 15:51:40,474:INFO:Model: Bayesian Ridge
+2024-03-25 15:51:40,534:INFO:Logged params: {'alpha_1': 1e-06, 'alpha_2': 1e-06, 'alpha_init': None, 'compute_score': False, 'copy_X': True, 'fit_intercept': True, 'lambda_1': 1e-06, 'lambda_2': 1e-06, 'lambda_init': None, 'max_iter': None, 'n_iter': 'deprecated', 'tol': 0.001, 'verbose': False}
+2024-03-25 15:51:40,785:INFO:Creating Dashboard logs
+2024-03-25 15:51:40,789:INFO:Model: Ridge Regression
+2024-03-25 15:51:40,846:INFO:Logged params: {'alpha': 1.0, 'copy_X': True, 'fit_intercept': True, 'max_iter': None, 'positive': False, 'random_state': 7485, 'solver': 'auto', 'tol': 0.0001}
+2024-03-25 15:51:41,197:INFO:Creating Dashboard logs
+2024-03-25 15:51:41,203:INFO:Model: Decision Tree Regressor
+2024-03-25 15:51:41,277:INFO:Logged params: {'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'monotonic_cst': None, 'random_state': 7485, 'splitter': 'best'}
+2024-03-25 15:51:41,610:INFO:Creating Dashboard logs
+2024-03-25 15:51:41,615:INFO:Model: AdaBoost Regressor
+2024-03-25 15:51:41,680:INFO:Logged params: {'estimator': None, 'learning_rate': 1.0, 'loss': 'linear', 'n_estimators': 50, 'random_state': 7485}
+2024-03-25 15:51:42,024:INFO:Creating Dashboard logs
+2024-03-25 15:51:42,033:INFO:Model: Huber Regressor
+2024-03-25 15:51:42,146:INFO:Logged params: {'alpha': 0.0001, 'epsilon': 1.35, 'fit_intercept': True, 'max_iter': 100, 'tol': 1e-05, 'warm_start': False}
+2024-03-25 15:51:42,671:INFO:Creating Dashboard logs
+2024-03-25 15:51:42,677:INFO:Model: Dummy Regressor
+2024-03-25 15:51:42,763:INFO:Logged params: {'constant': None, 'quantile': None, 'strategy': 'mean'}
+2024-03-25 15:51:43,125:INFO:Creating Dashboard logs
+2024-03-25 15:51:43,135:INFO:Model: Linear Regression
+2024-03-25 15:51:43,243:INFO:Logged params: {'copy_X': True, 'fit_intercept': True, 'n_jobs': -1, 'positive': False}
+2024-03-25 15:51:43,669:INFO:Creating Dashboard logs
+2024-03-25 15:51:43,675:INFO:Model: Least Angle Regression
+2024-03-25 15:51:43,781:INFO:Logged params: {'copy_X': True, 'eps': 2.220446049250313e-16, 'fit_intercept': True, 'fit_path': True, 'jitter': None, 'n_nonzero_coefs': 500, 'precompute': 'auto', 'random_state': 7485, 'verbose': False}
+2024-03-25 15:51:44,230:INFO:_master_model_container: 19
+2024-03-25 15:51:44,231:INFO:_display_container: 2
+2024-03-25 15:51:44,231:INFO:KNeighborsRegressor(n_jobs=-1)
+2024-03-25 15:51:44,232:INFO:compare_models() successfully completed......................................
+2024-03-25 15:51:44,233:INFO:Initializing tune_model()
+2024-03-25 15:51:44,233:INFO:tune_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=KNeighborsRegressor(n_jobs=-1), fold=None, round=4, n_iter=10, custom_grid=None, optimize=MSE, custom_scorer=None, search_library=scikit-learn, search_algorithm=None, early_stopping=False, early_stopping_max_iters=10, choose_better=True, fit_kwargs=None, groups=None, return_tuner=False, verbose=True, tuner_verbose=True, return_train_score=False, kwargs={})
+2024-03-25 15:51:44,234:INFO:Checking exceptions
+2024-03-25 15:51:44,287:INFO:Copying training dataset
+2024-03-25 15:51:44,325:INFO:Checking base model
+2024-03-25 15:51:44,325:INFO:Base model : K Neighbors Regressor
+2024-03-25 15:51:44,336:INFO:Declaring metric variables
+2024-03-25 15:51:44,346:INFO:Defining Hyperparameters
+2024-03-25 15:51:44,584:INFO:Tuning with n_jobs=-1
+2024-03-25 15:51:44,584:INFO:Initializing RandomizedSearchCV
+2024-03-25 15:52:19,811:INFO:best_params: {'actual_estimator__weights': 'distance', 'actual_estimator__n_neighbors': 7, 'actual_estimator__metric': 'euclidean'}
+2024-03-25 15:52:19,815:INFO:Hyperparameter search completed
+2024-03-25 15:52:19,815:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:52:19,818:INFO:Initializing create_model()
+2024-03-25 15:52:19,818:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=KNeighborsRegressor(n_jobs=-1), fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=True, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000203E0FA8550>, model_only=True, return_train_score=False, error_score=0.0, kwargs={'weights': 'distance', 'n_neighbors': 7, 'metric': 'euclidean'})
+2024-03-25 15:52:19,819:INFO:Checking exceptions
+2024-03-25 15:52:19,819:INFO:Importing libraries
+2024-03-25 15:52:19,820:INFO:Copying training dataset
+2024-03-25 15:52:19,940:INFO:Defining folds
+2024-03-25 15:52:19,941:INFO:Declaring metric variables
+2024-03-25 15:52:19,956:INFO:Importing untrained model
+2024-03-25 15:52:19,957:INFO:Declaring custom model
+2024-03-25 15:52:19,978:INFO:K Neighbors Regressor Imported successfully
+2024-03-25 15:52:20,009:INFO:Starting cross validation
+2024-03-25 15:52:20,038:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:52:25,486:INFO:Calculating mean and std
+2024-03-25 15:52:25,490:INFO:Creating metrics dataframe
+2024-03-25 15:52:25,522:INFO:Finalizing model
+2024-03-25 15:52:26,370:INFO:Uploading results into container
+2024-03-25 15:52:26,372:INFO:Uploading model into container now
+2024-03-25 15:52:26,373:INFO:_master_model_container: 20
+2024-03-25 15:52:26,373:INFO:_display_container: 3
+2024-03-25 15:52:26,374:INFO:KNeighborsRegressor(metric='euclidean', n_jobs=-1, n_neighbors=7,
+                    weights='distance')
+2024-03-25 15:52:26,374:INFO:create_model() successfully completed......................................
+2024-03-25 15:52:26,609:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:52:26,609:INFO:choose_better activated
+2024-03-25 15:52:26,620:INFO:SubProcess create_model() called ==================================
+2024-03-25 15:52:26,621:INFO:Initializing create_model()
+2024-03-25 15:52:26,622:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=KNeighborsRegressor(n_jobs=-1), fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-03-25 15:52:26,622:INFO:Checking exceptions
+2024-03-25 15:52:26,628:INFO:Importing libraries
+2024-03-25 15:52:26,629:INFO:Copying training dataset
+2024-03-25 15:52:26,698:INFO:Defining folds
+2024-03-25 15:52:26,698:INFO:Declaring metric variables
+2024-03-25 15:52:26,699:INFO:Importing untrained model
+2024-03-25 15:52:26,699:INFO:Declaring custom model
+2024-03-25 15:52:26,701:INFO:K Neighbors Regressor Imported successfully
+2024-03-25 15:52:26,702:INFO:Starting cross validation
+2024-03-25 15:52:26,717:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-03-25 15:52:31,246:INFO:Calculating mean and std
+2024-03-25 15:52:31,247:INFO:Creating metrics dataframe
+2024-03-25 15:52:31,250:INFO:Finalizing model
+2024-03-25 15:52:32,182:INFO:Uploading results into container
+2024-03-25 15:52:32,187:INFO:Uploading model into container now
+2024-03-25 15:52:32,187:INFO:_master_model_container: 21
+2024-03-25 15:52:32,187:INFO:_display_container: 4
+2024-03-25 15:52:32,187:INFO:KNeighborsRegressor(n_jobs=-1)
+2024-03-25 15:52:32,187:INFO:create_model() successfully completed......................................
+2024-03-25 15:52:32,400:INFO:SubProcess create_model() end ==================================
+2024-03-25 15:52:32,400:INFO:KNeighborsRegressor(n_jobs=-1) result for MSE is 34519.9285
+2024-03-25 15:52:32,400:INFO:KNeighborsRegressor(metric='euclidean', n_jobs=-1, n_neighbors=7,
+                    weights='distance') result for MSE is 33856.5084
+2024-03-25 15:52:32,400:INFO:KNeighborsRegressor(metric='euclidean', n_jobs=-1, n_neighbors=7,
+                    weights='distance') is best model
+2024-03-25 15:52:32,400:INFO:choose_better completed
+2024-03-25 15:52:32,400:INFO:Creating Dashboard logs
+2024-03-25 15:52:32,414:INFO:Model: K Neighbors Regressor
+2024-03-25 15:52:32,500:INFO:Logged params: {'algorithm': 'auto', 'leaf_size': 30, 'metric': 'euclidean', 'metric_params': None, 'n_jobs': -1, 'n_neighbors': 7, 'p': 2, 'weights': 'distance'}
+2024-03-25 15:52:32,686:INFO:Initializing predict_model()
+2024-03-25 15:52:32,687:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=KNeighborsRegressor(metric='euclidean', n_jobs=-1, n_neighbors=7,
+                    weights='distance'), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000203E196DE40>)
+2024-03-25 15:52:32,687:INFO:Checking exceptions
+2024-03-25 15:52:32,687:INFO:Preloading libraries
+2024-03-25 15:52:33,439:WARNING:C:\Users\SunWeiyi\AppData\Roaming\Python\Python311\site-packages\sklearn\metrics\_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+
+2024-03-25 15:52:33,870:INFO:_master_model_container: 21
+2024-03-25 15:52:33,870:INFO:_display_container: 3
+2024-03-25 15:52:33,870:INFO:KNeighborsRegressor(metric='euclidean', n_jobs=-1, n_neighbors=7,
+                    weights='distance')
+2024-03-25 15:52:33,870:INFO:tune_model() successfully completed......................................
+2024-03-25 15:52:34,060:INFO:Initializing predict_model()
+2024-03-25 15:52:34,060:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000203C8BCA650>, estimator=KNeighborsRegressor(metric='euclidean', n_jobs=-1, n_neighbors=7,
+                    weights='distance'), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000203D2141B20>)
+2024-03-25 15:52:34,060:INFO:Checking exceptions
+2024-03-25 15:52:34,060:INFO:Preloading libraries
+2024-03-25 15:52:34,064:INFO:Set up data.
+2024-03-25 15:52:34,115:INFO:Set up index.

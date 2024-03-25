@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/dbfe035ac5b943b588dffc5f865e5682/artifacts
+end_time: 1711381953700
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: dbfe035ac5b943b588dffc5f865e5682
+run_name: K Neighbors Regressor
+run_uuid: dbfe035ac5b943b588dffc5f865e5682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711381952431
+status: 3
+tags: []
+user_id: SunWeiyi
