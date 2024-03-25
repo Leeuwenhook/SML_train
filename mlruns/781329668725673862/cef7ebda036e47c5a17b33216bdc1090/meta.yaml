@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/cef7ebda036e47c5a17b33216bdc1090/artifacts
+end_time: 1711385275516
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: cef7ebda036e47c5a17b33216bdc1090
+run_name: Huber Regressor
+run_uuid: cef7ebda036e47c5a17b33216bdc1090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711385275352
+status: 3
+tags: []
+user_id: SunWeiyi

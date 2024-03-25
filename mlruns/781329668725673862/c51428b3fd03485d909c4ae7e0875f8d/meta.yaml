@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/c51428b3fd03485d909c4ae7e0875f8d/artifacts
+end_time: 1711385339538
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: c51428b3fd03485d909c4ae7e0875f8d
+run_name: Passive Aggressive Regressor
+run_uuid: c51428b3fd03485d909c4ae7e0875f8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711385339387
+status: 3
+tags: []
+user_id: SunWeiyi

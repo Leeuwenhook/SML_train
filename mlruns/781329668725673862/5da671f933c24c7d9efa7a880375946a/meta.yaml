@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Software/GitHub/SML_train/mlruns/781329668725673862/5da671f933c24c7d9efa7a880375946a/artifacts
+end_time: 1711385274950
+entry_point_name: ''
+experiment_id: '781329668725673862'
+lifecycle_stage: active
+run_id: 5da671f933c24c7d9efa7a880375946a
+run_name: Orthogonal Matching Pursuit
+run_uuid: 5da671f933c24c7d9efa7a880375946a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711385274808
+status: 3
+tags: []
+user_id: SunWeiyi
