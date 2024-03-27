@@ -36598,3 +36598,1158 @@ Increase the number of iterations (max_iter) or scale the data as shown in:
 2024-03-25 16:49:01,601:INFO:Preloading libraries
 2024-03-25 16:49:01,616:INFO:Set up data.
 2024-03-25 16:49:01,622:INFO:Set up index.
+2024-03-26 15:57:02,350:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-26 15:57:02,350:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-26 15:57:02,350:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-26 15:57:02,350:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-26 15:57:04,259:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-26 15:57:04,274:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-26 15:57:04,298:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-26 15:57:04,347:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-26 15:57:04,347:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-26 15:57:04,347:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-26 15:57:04,393:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-26 15:57:04,393:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-26 15:57:04,408:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-26 15:57:04,440:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-26 15:57:04,440:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-26 15:57:04,455:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-26 15:57:04,487:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-26 15:57:04,487:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-26 15:57:04,487:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-26 15:57:04,534:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-26 15:57:04,534:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-26 15:57:04,550:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-26 15:57:04,581:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-26 15:57:04,581:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-26 15:57:04,581:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-26 15:57:05,240:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-26 15:57:05,936:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 00:11:15,761:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 00:11:15,764:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 00:11:15,773:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 00:11:15,805:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 00:11:15,806:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 00:11:15,811:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 00:11:15,842:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 00:11:15,842:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 00:11:15,845:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 00:11:15,866:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 00:11:15,866:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 00:11:15,869:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 00:11:15,900:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 00:11:15,901:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 00:11:15,905:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 00:11:15,925:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 00:11:15,926:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 00:11:15,929:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 00:11:15,946:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 00:11:15,946:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 00:11:15,950:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 00:11:16,420:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 00:11:16,856:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 01:57:20,544:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:20,545:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:20,548:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:20,565:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:20,566:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:20,569:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:20,591:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:20,592:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:20,596:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:20,617:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:20,618:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:20,622:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:20,650:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:20,650:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:20,654:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:20,682:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:20,682:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:20,685:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:20,699:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:20,699:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:20,702:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:21,106:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 01:57:21,299:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: Tight layout not applied. The bottom and top margins cannot be made large enough to accommodate all axes decorations.
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 01:57:21,299:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 01:57:40,385:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:40,385:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:40,388:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:40,405:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:40,406:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:40,409:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:40,437:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:40,439:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:40,443:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:40,464:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:40,464:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:40,467:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:40,488:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:40,489:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:40,493:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:40,511:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:40,512:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:40,516:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:40,534:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 01:57:40,535:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 01:57:40,537:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 01:57:40,939:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 01:57:41,320:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:01:07,122:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:01:07,123:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:01:07,125:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:01:07,142:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:01:07,142:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:01:07,145:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:01:07,172:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:01:07,172:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:01:07,175:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:01:07,203:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:01:07,203:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:01:07,207:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:01:07,226:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:01:07,227:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:01:07,230:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:01:07,249:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:01:07,249:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:01:07,252:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:01:07,273:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:01:07,273:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:01:07,278:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:01:07,676:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:01:08,045:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:02:23,972:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:23,973:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:23,975:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:23,992:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:23,993:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:23,997:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:24,017:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:24,018:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:24,020:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:24,044:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:24,045:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:24,047:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:24,071:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:24,072:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:24,076:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:24,096:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:24,096:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:24,099:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:24,113:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:24,113:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:24,116:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:24,526:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:02:24,925:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:02:36,396:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:36,397:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:36,399:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:36,413:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:36,413:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:36,416:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:36,432:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:36,432:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:36,435:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:36,460:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:36,461:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:36,465:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:36,489:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:36,490:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:36,492:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:36,515:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:36,516:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:36,520:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:36,541:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:36,542:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:36,546:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:36,978:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:02:37,334:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:02:50,115:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:50,116:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:50,118:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:50,134:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:50,134:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:50,137:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:50,154:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:50,154:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:50,157:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:50,175:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:50,175:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:50,179:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:50,206:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:50,207:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:50,210:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:50,454:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:50,454:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:50,457:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:50,473:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:02:50,473:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:02:50,477:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:02:50,893:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:02:51,333:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:03:01,411:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:01,411:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:01,414:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:01,431:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:01,433:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:01,436:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:01,457:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:01,457:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:01,461:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:01,483:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:01,483:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:01,487:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:01,504:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:01,504:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:01,507:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:01,520:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:01,520:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:01,523:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:01,543:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:01,543:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:01,546:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:01,920:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:03:02,258:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:03:27,402:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:27,402:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:27,405:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:27,421:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:27,421:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:27,424:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:27,440:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:27,440:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:27,444:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:27,466:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:27,467:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:27,469:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:27,492:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:27,492:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:27,495:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:27,515:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:27,516:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:27,520:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:27,535:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:03:27,535:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:03:27,538:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:03:27,923:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:03:28,318:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:04:51,884:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:04:51,885:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:04:51,888:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:04:51,909:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:04:51,910:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:04:51,914:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:04:51,937:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:04:51,938:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:04:51,942:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:04:51,965:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:04:51,965:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:04:51,968:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:04:51,988:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:04:51,989:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:04:51,992:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:04:52,022:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:04:52,023:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:04:52,027:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:04:52,049:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:848: UserWarning: 
+
+The `bw` parameter is deprecated in favor of `bw_method` and `bw_adjust`.
+Setting `bw_method=0.2`, but please see the docs for the new parameters
+and update your code. This will become an error in seaborn v0.13.0.
+
+  func(*plot_args, **plot_kwargs)
+
+2024-03-27 02:04:52,049:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1498: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+
+2024-03-27 02:04:52,053:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+
+2024-03-27 02:04:52,484:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
+2024-03-27 02:04:52,858:WARNING:d:\Code\Anaconda\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
+  self._figure.tight_layout(*args, **kwargs)
+
